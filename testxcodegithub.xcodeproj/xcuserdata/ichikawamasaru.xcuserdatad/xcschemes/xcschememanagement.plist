@@ -4,10 +4,45 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>testxcodegithub.xcscheme_^#shared#^_</key>
+		<key>Copy of testxcodegithub.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>Release_Build.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>Staging_Build.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+		<key>testxcodegithub.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>isShown</key>
+			<true/>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>08E7928029195ED400ED9045</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>08E7929029195ED600ED9045</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>08E7929A29195ED600ED9045</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
